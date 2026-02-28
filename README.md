@@ -14,8 +14,6 @@ I work at the intersection of **infrastructure**, **observability**, and **web d
 - **Systems & Network Administrator** — Linux servers, networking, scripting, automation
 - **Web Developer** — PHP · Laravel · JavaScript · Tailwind CSS
 
-Currently building [**wetrack**](https://github.com/Juan-A/wetrack) — a Laravel-powered tracking app.
-
 ---
 
 ## Tech Stack
@@ -50,23 +48,6 @@ Currently building [**wetrack**](https://github.com/Juan-A/wetrack) — a Larave
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Juan-A&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-A&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Juan-A&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
